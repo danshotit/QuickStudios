@@ -1,6 +1,6 @@
-# Homyz - Real Estate Web App
+# Quick Studios Web App
 
-Homyz is a Real Estate website built using the MERN stack with Vite as the bundler. It provides various functionalities for users, including property listings, adding properties to the cart, and contacting the website's support team. The website also utilizes several libraries like axios, framer-motion, react-dom, react-icons, react-router, react-router-dom, swiper, and tailwind CSS for a seamless user experience.
+Quick Studios is a website built using the MERN stack with Vite as the bundler. It provides various functionalities for users, including property listings, adding properties to the cart, and contacting the website's support team. The website also utilizes several libraries like axios, framer-motion, react-dom, react-icons, react-router, react-router-dom, swiper, and tailwind CSS for a seamless user experience.
 
 ## Features
 
@@ -29,13 +29,13 @@ To run the Homyz website on your local machine, follow these steps:
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/MubashirAlam89/Homyz-Project.git
+git clone (https://github.com/danshotit/Quick-Studios
 ```
 
 2. Change into the project directory:
 
 ```bash
-git cd homyz
+git cd quickstudios
 ```
 
 3. Install the project dependencies using npm (Node Package Manager):
@@ -56,10 +56,4 @@ The website should now be accessible at http://localhost:3000.
 
 If you would like to contribute to the Homyz project, feel free to submit issues, feature requests, or pull requests on the GitHub repository. Your contributions are highly appreciated!
 
-## Live Demo.
 
-for live demo of Homyz &#128073; <a href="https://homyz-project.vercel.app">click here.</a>
-
-<hr>
-
-made with &#128151; by <a href="https://www.mubashiralam.com">"Mubashir Alam"</a>.
